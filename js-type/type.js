@@ -89,4 +89,4 @@
 // }
 
 // const result = func(1, 2);
-// console.log(result);
+// console.log(result)
