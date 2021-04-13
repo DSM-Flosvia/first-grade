@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    align-items: center;
+}
+.inputContainer {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    width: 400px;
+    height: 35px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+input{
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+    border: none;
+    width: 350px;
+    box-sizing: border-box;
+    padding: 0 15px;
+}
+
+
+
+button{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    outline: none;
+}
