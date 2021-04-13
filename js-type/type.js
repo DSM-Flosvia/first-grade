@@ -33,6 +33,7 @@
 // //     key1: "value",
 // //     key2: "value",
 // // };
+
 // //array
 // const arr = ["문자", 0, 0];
 
@@ -63,7 +64,7 @@
 //1. obj.key
 //2. obj["key"]
 
-const arr = ["one", "two", "three", "four"];
+// const arr = ["one", "two", "three", "four"];
 
 // for(let a of arr) {
 //     console.log(a);
@@ -77,18 +78,15 @@ const arr = ["one", "two", "three", "four"];
 
 //map
 //배열 순회
-// arr.map((e,i) => {
-//     console.log(i,e);
-// });
 
 // const mqpArray = arr.map((e,i) => {
 //     return e + "num";
 // })
 // console.log(mapArray);
 
-function func(a, b) {
-    return a + b;
-}
+// function func(a, b) {
+//     return a + b;
+// }
 
-const result = func(3, 2);
-console.log(result);
+// const result = func(1, 2);
+// console.log(result);
