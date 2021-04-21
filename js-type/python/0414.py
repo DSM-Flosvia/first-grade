@@ -30,3 +30,4 @@ elif s == '*':
     multiple(int(n1), int(n2))
 else:
     division(int(n1), int(n2))
+
