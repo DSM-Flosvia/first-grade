@@ -19,7 +19,7 @@ def multiple(n1, n2):
 def division(n1, n2):
     print(n1 / n2)
 
-n1 n2 = input().split()
+n1, n2 = input().split()
 s = input()
 
 if s == '+':
@@ -31,3 +31,4 @@ elif s == '*':
 else:
     division(int(n1), int(n2))
 
+print(add)

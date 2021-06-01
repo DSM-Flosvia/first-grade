@@ -224,7 +224,7 @@ do {
 } while (i > 0);
 ```
 
-### for 루프
+### for loop
 
 ```
 //for loop, for(begin; condition; step)
